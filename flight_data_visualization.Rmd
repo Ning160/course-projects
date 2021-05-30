@@ -5,8 +5,6 @@ description: |
     - name: [First author name]
     affiliation: cand.merc (OSCM)
 date: "`r Sys.Date()`"
-#repository_url: [A url to your source code(dropbox, onedrive, github etc)]
-#preview: https://rstudio.github.io/distill/images/javascript-d3-preview.png
 creative_commons: CC BY-NC
 output:
   distill::distill_article:

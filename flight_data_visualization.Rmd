@@ -1,8 +1,8 @@
 ---
 title: "New York City flights"
 description: |
-  An analysis of the `nycflights13` datasets. Mandatory project report in Tools for Analytics (R part).
-    - name: [First author name]
+  An analysis of the `nycflights13` datasets.
+    - name: Ning
     affiliation: cand.merc (OSCM)
 date: "`r Sys.Date()`"
 creative_commons: CC BY-NC
